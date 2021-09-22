@@ -1,0 +1,73 @@
+html,body{
+    height: 100%;
+}
+#banner_image{
+
+    padding-bottom: 50px;
+    padding-top: 75px;
+    text-align: center;
+    color: #f8f8f8;
+    max-width: 100%;
+    height: auto;
+    background: url(img/intro-bg_1.jpg)no-repeat center ;
+    background-size: cover;
+    display: block;
+}
+#banner_content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 12%;
+    background-color: rgba(0,0,0,0.7);
+    max-width: 660px;
+}
+.footer{
+    padding: 10px 0px;
+    background-color: #101010;
+    color:#9d9d9d;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.form-group{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.panel-heading{
+    max-height: 50%;
+ 
+}
+.panel-primary{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-top: 12px;
+  margin-bottom: 12px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+image{
+    max-width: 100%;
+    max-height: 100%;
+}
+.table{
+    margin-top: 12%;
+    margin-bottom: 12%;
+}
+.tbody{
+    padding: 20px;
+}
+#form{
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-top: 20px;
+}
+#success{
+    color: green;
+    text-align: center;
+    margin-left: 25%;
+   margin-right: 25%;
+}
